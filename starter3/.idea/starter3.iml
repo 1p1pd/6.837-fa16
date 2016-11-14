@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/vertexrecorder.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/pendulumsystem.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/vertexrecorder.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/camera.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/pendulumsystem.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/simplesystem.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/particlesystem.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/starter3_util.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/clothsystem.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/timestepper.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/particlesystem.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/timestepper.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/clothsystem.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/camera.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/simplesystem.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/starter3_util.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/init.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/linux_joystick.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/internal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/posix_tls.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/x11_monitor.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/linux_joystick.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/xkb_unicode.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/x11_init.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/x11_window.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/x11_platform.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/posix_time.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/vulkan.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/posix_time.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/glx_context.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/context.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/window.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/glfw_config.h.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/monitor.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/egl_context.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/glfw3Config.cmake.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/input.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/glx_context.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/egl_context.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/posix_tls.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/glfw3.pc.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/src/xkb_unicode.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/include/GLFW/glfw3native.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/include/GLFW/glfw3.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/CMake/modules/FindVulkan.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glfw/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_party/glew/src/glew.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/Matrix3f.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/Vector4f.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/include/Quat4f.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/include/vecmath.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/include/Matrix4f.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/include/Matrix2f.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/include/Vector2f.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/include/Matrix3f.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/include/Vector4f.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/include/Vector3f.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/Matrix4f.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/Quat4f.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/Vector2f.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/Matrix2f.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/Vector3f.cpp" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/local/include" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/starter3-f38d3d43/f38d3d43/Release/3rd_party/glfw/src" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/starter3-f38d3d43/f38d3d43/Debug/3rd_party/glfw/src" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/starter3-f38d3d43/f38d3d43/RelWithDebInfo/3rd_party/glfw/src" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/starter3-f38d3d43/f38d3d43/MinSizeRel/3rd_party/glfw/src" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/local/include" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/starter3-f38d3d43/f38d3d43/Release/3rd_party/glfw/src" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/starter3-f38d3d43/f38d3d43/Debug/3rd_party/glfw/src" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/starter3-f38d3d43/f38d3d43/RelWithDebInfo/3rd_party/glfw/src" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/starter3-f38d3d43/f38d3d43/MinSizeRel/3rd_party/glfw/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

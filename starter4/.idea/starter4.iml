@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/Camera.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Material.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Image.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Object3D.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Camera.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Octree.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Light.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Mesh.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Material.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/stb_image.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/stb.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/ArgParser.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Object3D.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/ArgParser.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Mesh.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/SceneParser.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/VecUtils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Renderer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Octree.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/SceneParser.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/CubeMap.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Image.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Renderer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/stb_image_write.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Light.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/CubeMap.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Ray.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/VecUtils.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/Vector4f.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/include/Quat4f.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/include/Matrix2f.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/include/Vector3f.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/include/Vector2f.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/include/vecmath.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/include/Matrix4f.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/include/Matrix3f.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/include/Vector4f.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/Matrix3f.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/Quat4f.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/Vector2f.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/Matrix4f.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/Matrix2f.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vecmath/Vector3f.cpp" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/local/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/local/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
