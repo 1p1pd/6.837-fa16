@@ -101,7 +101,7 @@ Renderer::traceRay(const Ray &r,
                     sum += h.getMaterial()->shade(r, h, tolight, intensity);
                 }
             }
-//            sum += _scene.getAmbientLight() * h.getMaterial()->getDiffuseColor();
+            sum += _scene.getAmbientLight() * h.getMaterial()->getDiffuseColor();
             Vector3f reflect = r.getDirection() - 2 * Vector3f::dot(r.getDirection(), h.getNormal()) * h.getNormal();
             Ray R = Ray(p, reflect);
             Hit newhit;
